@@ -27,9 +27,38 @@
 - 모듈
 - 혼자 공부할 내용을 더 추가함
   - 브라우저의 렌더링 과정, DOM, 이벤트, Bable과 Webpack을 이용한 ES6+/ES.NEXT 개발 환경 구축
+  - jQuery, Ajax, xml, json
 
 ## TypeScript
 
+- 아직 미정
+
 ## NodeJS
 
+- Ajax
+- FormData
+- encodeURIComponent, decodeURIComponent
+- 데이터 속성과 dataset
+- **filename, **dirname
+- 노드 내장 모듈
+  - os
+  - path
+  - url
+  - querystring
+  - crypto
+  - util
+  - worker_threads
+  - child_process
+- 버퍼와 스트림
+- 쿠키와 세션
+- middlewares
+  - static
+  - body-parser
+  - cookie-parser
+  - express-session
+  - multer
+  - req, res 객체
+
 ## NestJS
+
+- 아직 미정
